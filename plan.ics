@@ -54,7 +54,7 @@ DTSTAMP:20251016T120000Z
 DTSTART;TZID=Europe/Vienna:20251016T120000
 DTEND;TZID=Europe/Vienna:20251016T140000
 SUMMARY:DONE — VO₂ 4×4′ @ 345 W (2 h total)
-DESCRIPTION:Avg HR 166 bpm / max 178 bpm. 1 min recovery HR 130 bpm. Legs OK, hard but controlled. 45 min easy Z2 after.
+DESCRIPTION:Avg HR 166 bpm / max 178 bpm. 1-min recovery HR 130 bpm. Legs OK, hard but controlled. 45-min easy Z2 after.
 END:VEVENT
 
 BEGIN:VEVENT
@@ -81,8 +81,7 @@ DTSTAMP:20251016T120000Z
 DTSTART;TZID=Europe/Vienna:20251019T120000
 DTEND;TZID=Europe/Vienna:20251019T160000
 SUMMARY:Planned — Long Z2 3.5–4 h @ 190–205 W (+ optional 2×15′ @ 270 W)
-DESCRIPTION:Steady Z2 ride; HR ≤ 145 bpm. If legs fresh, add 2×15′ @ 270 W toward end. Fuel 90 g carbs/h.
+DESCRIPTION:Steady Z2 ride 3.5–4 h. HR ≤ 145 bpm. If legs fresh, add 2×15′ @ 270 W toward end. Fuel 90 g carbs/h.
 END:VEVENT
 
 END:VCALENDAR
-
